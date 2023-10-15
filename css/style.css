@@ -229,3 +229,9 @@ p{
 .testimonial-carousel .owl-dot.active {
   background: var(--primary);
 }
+@media screen and (max-width: 500px) {
+  body{
+    padding: 0px 20px;
+  }
+  
+}
