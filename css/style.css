@@ -14,7 +14,9 @@
 body{
   background-color: #202c45;
 }
-
+p{
+  text-align: justify !important;
+}
 
 #spinner {
   opacity: 0;
